@@ -13,4 +13,12 @@ yarn install
 yarn start
 ```
 
+
+## Images
+
+![Demo Image 1](http://prntscr.com/uove7t)
+![Demo Image 2](http://prntscr.com/uovevy)
+
+
+
 #### This is only for practice purpose
