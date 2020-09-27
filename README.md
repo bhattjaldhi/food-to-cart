@@ -13,6 +13,11 @@ yarn install
 yarn start
 ```
 
+### Things used in the project
+1. React Bootstrap for designing
+2. Redux architecture
+3. Custom styling with SCSS and custom components
+4. Use of React's latest version with react hooks
 
 ## Images
 
