@@ -16,8 +16,8 @@ yarn start
 
 ## Images
 
-![Demo Image 1](https://github.com/bhattjaldhi/food-to-cart/tree/master/demo/download1.png)
-![Demo Image 2](https://github.com/bhattjaldhi/food-to-cart/tree/master/demo/download2.png)
+![Demo Image 1](https://github.com/bhattjaldhi/food-to-cart/blob/master/demo/download1.png)
+![Demo Image 2](https://github.com/bhattjaldhi/food-to-cart/blob/master/demo/download2.png)
 
 
 
